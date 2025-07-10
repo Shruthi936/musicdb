@@ -20,7 +20,7 @@ A simple music web app built with **HTML, CSS, JavaScript, Node.js, and MongoDB*
 3. Add your MongoDB URI to `.env`
 4. Start the server:
    ```bash
-   node server.js
+   node index.js
 Open index.html in browser or use Live Server
 
 
