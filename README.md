@@ -1,6 +1,6 @@
 # 🎵 Music DB Web App
 
-A simple full-stack music web app built with **HTML, CSS, JavaScript, Node.js, and MongoDB**. Users can log in, play songs, and upload new tracks.
+A simple music web app built with **HTML, CSS, JavaScript, Node.js, and MongoDB**. Users can log in, play songs, and upload new tracks.
 
 ## 🚀 Features
 - User login and registration
